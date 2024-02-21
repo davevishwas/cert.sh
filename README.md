@@ -4,7 +4,7 @@ Usage: ./cert.sh domain
 
 Usage is pretty simple : 
 Step 1 :  
-> git clone https://github.com/davevishwas/cert.sh.git 
+> git clone https://github.com/davevishwas/cert.sh.git  
 Step 2 :  
 > chmod +x cert.sh 
 Step 3 : 
