@@ -1,6 +1,6 @@
 # cert.sh
 A simple shell script to retrieve all subdomains from https://crt.sh.
-Usage: ./cert.sh domain
+
 
 ## Usage is pretty simple  
 
