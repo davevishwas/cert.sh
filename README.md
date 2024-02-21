@@ -2,7 +2,9 @@
 A simple shell script to retrieve all subdomains from https://crt.sh.
 Usage: ./cert.sh domain
 
-Usage is pretty simple :  
+Usage is pretty simple  
+
+
 Step 1 :  
 ``` git clone https://github.com/davevishwas/cert.sh.git ```  
 Step 2 :  
